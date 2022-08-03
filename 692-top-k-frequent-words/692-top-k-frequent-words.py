@@ -4,7 +4,7 @@ class Solution:
         heap = [(-x[1], x[0]) for x in count.items()]
         
         heapify(heap)
-        print(heap)
+        
         temp = []
         
         while len(temp) < k:
