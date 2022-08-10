@@ -1,31 +1,31 @@
 class TopVotedCandidate:
 
     def __init__(self, persons: List[int], times: List[int]):
-        self.topVoted = [0] * len(times)
-        countVotes = Counter()
-        currentTop = persons[0]
+        self.leadVoted = [0] * len(times)
+        count = Counter()
+        currentlead = persons[0]
         
         for i, (person, time) in enumerate(zip(persons, times)):
-            countVotes[person] += 1
-            if countVotes[person] >= countVotes[currentTop]:
-                currentTop = person
-            self.topVoted[i] = (time, currentTop)
+            count[person] += 1
+            if count[person] >= count[currentlead]:
+                currentlead = person
+            self.leadVoted[i] = (time, currentlead)
 
     def q(self, t: int) -> int:
-        left, right = 0, len(self.topVoted) - 1
+        start, end = 0, len(self.leadVoted) - 1
         
-        while left <= right:
-            mid = (left + right) // 2
-            time, top = self.topVoted[mid]
+        while start <= end:
+            mid = (start + end) // 2
+            time, lead = self.leadVoted[mid]
             if time == t:
-                return top
+                return lead
             if time < t:
-                left = mid + 1
+                start = mid + 1
             else:
-                right = mid - 1
+                end = mid - 1
 
-        time, top = self.topVoted[right]
-        return top
+        time, lead = self.leadVoted[end]
+        return lead
                 
         
         
