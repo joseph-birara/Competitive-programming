@@ -4,6 +4,7 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         
         """
+        
         nums = nums1.copy()
         x =0
         y=0
