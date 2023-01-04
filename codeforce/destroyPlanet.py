@@ -14,9 +14,3 @@ for _ in range(testCase):
         else:
             totalCost += count[orbit]
     print(totalCost)
-
-
-
-
-
-
