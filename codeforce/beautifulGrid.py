@@ -1,13 +1,5 @@
 testCases = int (input())
 res = []
-# def rotator(grid):
-#     row_len = len(grid)
-#     col_len = len(grid[0])
-#     temp = []
-#     for col in zip(*grid):
-#         temp.append(col[::-1])
-#     return temp
-
 for _ in range(testCases):
     
     grid_size = int (input())
@@ -20,10 +12,14 @@ for _ in range(testCases):
    
 
     for row_index in range(grid_size):
+        temp =[]
         for col_index in range(grid_size):
-            if grid[row_index][col_index] != grid[col_index][row_index]:
-               
-                operation_count +=1
+            temp.append(grid[row_index][col_index])
+            temp.append(grid[col_index][-1-row_index])
+            temp.append(grid[-1-row_index][-1-col_index])
+            temp.append(grid[-1-col_index][row_index])
+
+            
     # 
     res.append(operation_count//2)
 print(res)
