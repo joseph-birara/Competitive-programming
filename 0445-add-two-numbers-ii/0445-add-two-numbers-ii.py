@@ -4,36 +4,44 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    def reverseList(self, head: ListNode) -> ListNode:
+        prev = None
+        curr = head
+
+        while curr:
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+        
+        return prev
+
     def helper(self, l1: ListNode, l2: ListNode) -> ListNode:
-        stack1 = []
-        stack2 = []
-
-        while l1:
-            stack1.append(l1.val)
-            l1 = l1.next
-
-        while l2:
-            stack2.append(l2.val)
-            l2 = l2.next
-
-        result = None
+        dummyHead = ListNode(0)
+        tail = dummyHead
         carry = 0
 
-        while stack1 or stack2 or carry:
-            digit1 = stack1.pop() if stack1 else 0
-            digit2 = stack2.pop() if stack2 else 0
+        while l1 or l2 or carry:
+            digit1 = l1.val if l1 else 0
+            digit2 = l2.val if l2 else 0
 
             total = digit1 + digit2 + carry
             digit = total % 10
             carry = total // 10
 
             newNode = ListNode(digit)
-            newNode.next = result
-            result = newNode
+            tail.next = newNode
+            tail = tail.next
 
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+
+        result = dummyHead.next
         return result
 
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        l1 = self.reverseList(l1)
+        l2 = self.reverseList(l2)
         ans = self.helper(l1, l2)
-        return ans
+        return self.reverseList(ans)
         
