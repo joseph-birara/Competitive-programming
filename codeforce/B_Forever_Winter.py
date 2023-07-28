@@ -1,6 +1,5 @@
 from collections import Counter, defaultdict
 
-
 testtCase = int(input())
 
 for _ in range(testtCase):
