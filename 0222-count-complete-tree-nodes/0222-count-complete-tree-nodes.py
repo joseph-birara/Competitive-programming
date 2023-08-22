@@ -7,15 +7,13 @@
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         
-        res = [0]
+        
         
         def nodeCounter(node):
-            if not node:
-                return 
-            res[0]+=1
-            nodeCounter(node.left)
-            nodeCounter(node.right)
+            if  node:
+                return  1+ nodeCounter(node.left)+nodeCounter(node.right) 
+            return 0           
             
-        nodeCounter(root)
-        return res[0]
+        
+        return nodeCounter(root)
         
