@@ -1,26 +1,15 @@
 class Solution:
-    def minFallingPathSum(self,matrix):
-        n = len(matrix)
-        dp = [[0] * n for _ in range(n)]
-
-        # Copy values from the first row to the auxiliary matrix
-        for col in range(n):
-            dp[0][col] = matrix[0][col]
-
-        # Iterate through the remaining rows
-        for row in range(1, n):
-            for col in range(n):
-                # Calculate the minimum sum for each position
-                if col == 0:
-                    dp[row][col] = matrix[row][col] + min(dp[row - 1][col], dp[row - 1][col + 1])
-                elif col == n - 1:
-                    dp[row][col] = matrix[row][col] + min(dp[row - 1][col], dp[row - 1][col - 1])
+    def minFallingPathSum(self, matrix: List[List[int]]) -> int:
+        
+        for i in range(1,len(matrix)):
+            for j in range(len(matrix[0])):
+                if j >= 1 and j <len(matrix[0])-1:
+                    matrix[i][j] += min(matrix[i-1][j],matrix[i-1][j+1], matrix[i-1][j-1])
+                elif j >=1:
+                    matrix[i][j] += min(matrix[i-1][j], matrix[i-1][j-1])
                 else:
-                    dp[row][col] = matrix[row][col] + min(dp[row - 1][col - 1], dp[row - 1][col], dp[row - 1][col + 1])
-
-        # Find the minimum sum in the last row
-        min_sum = min(dp[n - 1])
-
-        return min_sum
-
+                    matrix[i][j] += min(matrix[i-1][j],matrix[i-1][j+1])
+        return min(matrix[-1])
+                    
+                    
         
