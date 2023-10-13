@@ -1,7 +1,6 @@
 from heapq import heappush, heappop
 
 t = int(input())
-
 for _ in range(t):
     n = int(input())
     a = list(map(int, input().split()))
@@ -25,6 +24,5 @@ for _ in range(t):
         if a[v-1] > 0:
             heappush(heap, (-a[v-1], v))
 
-    print(len(pairs))
     for u, v in pairs:
         print(u, v)

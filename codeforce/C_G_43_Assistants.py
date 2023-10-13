@@ -1,28 +1,3 @@
-def max_overlapping_intervals(test_cases):
-    for case in test_cases:
-        n = case[0]
-        students = case[1:]
-        events = []
-
-        for i in range(n):
-            start_time, end_time = students[i]
-            events.append((start_time, 1))
-            events.append((end_time, -1))
-
-        events.sort()
-
-        max_overlaps = 0
-        current_overlaps = 0
-
-        for _, event_type in events:
-            if event_type == 1:
-                current_overlaps += 1
-            else:
-                current_overlaps -= 1
-
-            max_overlaps = max(max_overlaps, current_overlaps)
-
-        print(max_overlaps)
 
 
 t = int(input())
@@ -34,6 +9,13 @@ for _ in range(t):
     for _ in range(n):
         s, e = map(int, input().split())
         students.append((s, e))
-    test_cases.append([n] + students)
-
-max_overlapping_intervals(test_cases)
+    end = 0
+    for i in range(n):
+        end = max(end, students[i][1])
+    sol = [0]*(end+1)
+    for st in students:
+        sol[st[0]] += 1
+        sol[st[1]] -= 1
+    for i in range(1, end+1):
+        sol[i] += sol[i-1]
+    print(max(sol))
