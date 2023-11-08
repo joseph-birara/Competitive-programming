@@ -1,10 +1,8 @@
 n, m, k = map(int, input().split())
-
 player = []
 for i in range(m+1):
     player.append(int(input()))
 fedor = player[-1]
-
 
 player.pop()
 
