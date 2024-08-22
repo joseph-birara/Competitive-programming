@@ -74,4 +74,8 @@ Happy coding!
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/joseph-birara/Competitive-programming/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
