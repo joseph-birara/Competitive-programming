@@ -58,6 +58,7 @@ Happy coding!
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Backtracking
 |  |
@@ -85,6 +86,7 @@ Happy coding!
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
+| [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,4 +148,8 @@ Happy coding!
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
+## Matrix
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
