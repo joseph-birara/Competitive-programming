@@ -152,4 +152,16 @@ Happy coding!
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
+## Graph
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
