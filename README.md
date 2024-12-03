@@ -87,11 +87,13 @@ Happy coding!
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
@@ -104,6 +106,7 @@ Happy coding!
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -138,6 +141,7 @@ Happy coding!
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
@@ -187,5 +191,10 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
+## Hash Table
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
