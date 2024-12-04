@@ -76,6 +76,7 @@ Happy coding!
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/joseph-birara/Competitive-programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/joseph-birara/Competitive-programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Math
 |  |
 | ------- |
