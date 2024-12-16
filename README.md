@@ -70,6 +70,7 @@ Happy coding!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Happy coding!
 |  |
 | ------- |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Happy coding!
 | [2232-adding-spaces-to-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/joseph-birara/Competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Happy coding!
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/joseph-birara/Competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
