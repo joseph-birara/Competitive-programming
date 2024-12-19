@@ -56,6 +56,7 @@ Happy coding!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
@@ -104,6 +105,7 @@ Happy coding!
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -114,6 +116,7 @@ Happy coding!
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
@@ -190,6 +193,7 @@ Happy coding!
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
 ## Prefix Sum
@@ -256,4 +260,8 @@ Happy coding!
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
