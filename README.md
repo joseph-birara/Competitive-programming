@@ -72,6 +72,7 @@ Happy coding!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
@@ -97,6 +98,7 @@ Happy coding!
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -184,6 +186,7 @@ Happy coding!
 | ------- |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Happy coding!
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -235,6 +239,7 @@ Happy coding!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/joseph-birara/Competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -265,6 +270,7 @@ Happy coding!
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -277,4 +283,8 @@ Happy coding!
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
