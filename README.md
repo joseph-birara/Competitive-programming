@@ -53,6 +53,7 @@ Happy coding!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
@@ -79,6 +80,7 @@ Happy coding!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
