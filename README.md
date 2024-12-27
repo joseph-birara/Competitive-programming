@@ -59,6 +59,7 @@ Happy coding!
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
+| [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
@@ -255,6 +256,7 @@ Happy coding!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joseph-birara/Competitive-programming/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sliding Window
