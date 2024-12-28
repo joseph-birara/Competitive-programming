@@ -54,6 +54,7 @@ Happy coding!
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
@@ -256,6 +257,7 @@ Happy coding!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joseph-birara/Competitive-programming/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
