@@ -62,6 +62,7 @@ Happy coding!
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -140,6 +141,7 @@ Happy coding!
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
@@ -259,6 +261,7 @@ Happy coding!
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joseph-birara/Competitive-programming/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sliding Window
