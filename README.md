@@ -263,6 +263,7 @@ Happy coding!
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/joseph-birara/Competitive-programming/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sliding Window
 |  |
