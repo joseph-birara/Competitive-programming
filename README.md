@@ -63,6 +63,7 @@ Happy coding!
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/joseph-birara/Competitive-programming/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/joseph-birara/Competitive-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -149,6 +150,7 @@ Happy coding!
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/joseph-birara/Competitive-programming/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -178,6 +180,7 @@ Happy coding!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/joseph-birara/Competitive-programming/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
