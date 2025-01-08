@@ -84,6 +84,7 @@ Happy coding!
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
@@ -167,6 +168,7 @@ Happy coding!
 | [2691-count-vowel-strings-in-ranges](https://github.com/joseph-birara/Competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/joseph-birara/Competitive-programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Happy coding!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -183,15 +186,18 @@ Happy coding!
 | [1524-string-matching-in-an-array](https://github.com/joseph-birara/Competitive-programming/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/joseph-birara/Competitive-programming/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
