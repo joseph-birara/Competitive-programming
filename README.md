@@ -140,6 +140,7 @@ Happy coding!
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/joseph-birara/Competitive-programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@ Happy coding!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/joseph-birara/Competitive-programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -233,6 +235,7 @@ Happy coding!
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/joseph-birara/Competitive-programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/joseph-birara/Competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
