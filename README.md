@@ -193,6 +193,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -327,6 +328,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
@@ -394,5 +396,6 @@ Happy coding!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
