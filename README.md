@@ -74,6 +74,7 @@ Happy coding!
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2145-grid-game](https://github.com/joseph-birara/Competitive-programming/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -260,6 +261,7 @@ Happy coding!
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/joseph-birara/Competitive-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/joseph-birara/Competitive-programming/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/joseph-birara/Competitive-programming/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -270,6 +272,7 @@ Happy coding!
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/joseph-birara/Competitive-programming/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/joseph-birara/Competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 ## Depth-First Search
 |  |
