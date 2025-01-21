@@ -53,6 +53,7 @@ Happy coding!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -329,6 +330,7 @@ Happy coding!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
