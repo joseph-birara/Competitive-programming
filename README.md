@@ -54,6 +54,7 @@ Happy coding!
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
@@ -335,6 +336,7 @@ Happy coding!
 | ------- |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -374,6 +376,7 @@ Happy coding!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/joseph-birara/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
