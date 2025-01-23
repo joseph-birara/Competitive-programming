@@ -60,6 +60,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/joseph-birara/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
@@ -147,6 +148,7 @@ Happy coding!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/joseph-birara/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
@@ -349,6 +351,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/joseph-birara/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
