@@ -4,27 +4,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-from functools import cache
-
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
+
         @cache
-        def dfs(node):
+        def dfs(node, status):
             if not node:
-                return (0, 0)  # (not_rob, rob)
-
-            # Recursively calculate for left and right children
-            left = dfs(node.left)
-            right = dfs(node.right)
-
-            # If we rob this node, we cannot rob its children
-            rob = node.val + left[0] + right[0]
-
-            # If we don't rob this node, we take the maximum profit from each child
-            not_rob = max(left) + max(right)
-
-            return (not_rob, rob)
-
-        # Get the maximum profit by either robbing or not robbing the root
-        return max(dfs(root))
+                return 0
+            if status:
+                return dfs(node.left, False) + dfs(node.right,False)
+            else:
+                rob = node.val + dfs(node.left, True) + dfs(node.right,True)
+                skip = dfs(node.left, False) + dfs(node.right,False)
+                return max(rob,skip)
+        
+        return max(dfs(root,False), dfs(root, True))
+        
