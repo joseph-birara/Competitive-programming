@@ -198,6 +198,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1236-n-th-tribonacci-number) |
@@ -338,6 +339,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
@@ -420,4 +422,8 @@ Happy coding!
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
