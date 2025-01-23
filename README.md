@@ -52,6 +52,7 @@ Happy coding!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0040-combination-sum-ii) |
+| [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
@@ -279,6 +280,7 @@ Happy coding!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -340,6 +342,7 @@ Happy coding!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
