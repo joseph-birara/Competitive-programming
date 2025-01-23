@@ -2,17 +2,19 @@ from functools import cache
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        @cache
-        def dp(row, col):
+        dp = [[0]*(n) for i in range(m)]
+        for i in range(m):
+            dp[i][0] = 1
+        for j in range(n):
+            dp[0][j] = 1
+        for row in range(1,m):
+            for col in range(1,n):
+                dp[row][col] = dp[row-1][col] + dp[row][col-1]
             
-            if row == 0 and col == 0:
-                return 1
-            
-            if row < 0 or col < 0:
-                return 0
+                
             
             
-            return dp(row, col - 1) + dp(row - 1, col)
+            
         
         
-        return dp(m - 1, n - 1)
+        return dp[m-1][n-1]
