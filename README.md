@@ -113,6 +113,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/joseph-birara/Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joseph-birara/Competitive-programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -174,6 +175,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/joseph-birara/Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/joseph-birara/Competitive-programming/tree/master/0214-shortest-palindrome) |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
@@ -350,6 +352,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/joseph-birara/Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
