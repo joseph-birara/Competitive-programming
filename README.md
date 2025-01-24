@@ -296,12 +296,14 @@ Happy coding!
 | ------- |
 | [0337-house-robber-iii](https://github.com/joseph-birara/Competitive-programming/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/joseph-birara/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -396,6 +398,7 @@ Happy coding!
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/joseph-birara/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/joseph-birara/Competitive-programming/tree/master/1876-map-of-highest-peak) |
@@ -438,4 +441,8 @@ Happy coding!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/joseph-birara/Competitive-programming/tree/master/0062-unique-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
