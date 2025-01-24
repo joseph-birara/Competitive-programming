@@ -55,6 +55,7 @@ Happy coding!
 | [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/joseph-birara/Competitive-programming/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/joseph-birara/Competitive-programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
@@ -123,6 +124,7 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
@@ -351,6 +353,7 @@ Happy coding!
 | [0064-minimum-path-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/joseph-birara/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/joseph-birara/Competitive-programming/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/joseph-birara/Competitive-programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/joseph-birara/Competitive-programming/tree/master/0337-house-robber-iii) |
