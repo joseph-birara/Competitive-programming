@@ -322,6 +322,7 @@ Happy coding!
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/joseph-birara/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/joseph-birara/Competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -331,6 +332,7 @@ Happy coding!
 | [0801-is-graph-bipartite](https://github.com/joseph-birara/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/joseph-birara/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/joseph-birara/Competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Eulerian Circuit
@@ -440,6 +442,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/joseph-birara/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/joseph-birara/Competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/joseph-birara/Competitive-programming/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -490,6 +493,7 @@ Happy coding!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/joseph-birara/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/joseph-birara/Competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Game Theory
 |  |
