@@ -1,16 +1,15 @@
 class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
         
-        n = len(prices)
-        if n < 2:
-            return 0
 
-        cash, hold = 0, -prices[0]
 
-        for i in range(1, n):
-            cash = max(cash, hold + prices[i] - fee)
-            hold = max(hold, cash - prices[i])
+        preS = 0
+        preB = -prices[0]
 
-        return cash
+        for i in range(len(prices)):
+            preB = max(preB,preS - prices[i])
+            preS = max(preS, preB + prices[i] - fee)
+
+        return preS
 
         

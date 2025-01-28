@@ -6,25 +6,17 @@
 #         self.right = right
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
-        memo = {}
 
-        def rob_amount(node: TreeNode, parent_robbed: bool) -> int:
+        @cache
+        def dfs(node, status):
             if not node:
                 return 0
-
-            if (node, parent_robbed) in memo:
-                return memo[(node, parent_robbed)]
-
-            if parent_robbed:
-                amount = rob_amount(node.left, False) + rob_amount(node.right, False)
+            if status:
+                return dfs(node.left, False) + dfs(node.right,False)
             else:
-                with_node = node.val + rob_amount(node.left, True) + rob_amount(node.right, True)
-                without_node = rob_amount(node.left, False) + rob_amount(node.right, False)
-                amount = max(with_node, without_node)
-
-            memo[(node, parent_robbed)] = amount
-            return amount
-
-        return rob_amount(root, False)
-
+                rob = node.val + dfs(node.left, True) + dfs(node.right,True)
+                skip = dfs(node.left, False) + dfs(node.right,False)
+                return max(rob,skip)
+        
+        return max(dfs(root,False), dfs(root, True))
         
