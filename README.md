@@ -69,6 +69,7 @@ Happy coding!
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/joseph-birara/Competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/joseph-birara/Competitive-programming/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/joseph-birara/Competitive-programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
@@ -303,6 +304,7 @@ Happy coding!
 | [0200-number-of-islands](https://github.com/joseph-birara/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/joseph-birara/Competitive-programming/tree/master/0463-island-perimeter) |
+| [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/joseph-birara/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -322,6 +324,7 @@ Happy coding!
 | [0684-redundant-connection](https://github.com/joseph-birara/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/joseph-birara/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -444,6 +447,7 @@ Happy coding!
 | [0684-redundant-connection](https://github.com/joseph-birara/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/joseph-birara/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/joseph-birara/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
@@ -492,6 +496,7 @@ Happy coding!
 | [0200-number-of-islands](https://github.com/joseph-birara/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/joseph-birara/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/joseph-birara/Competitive-programming/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/joseph-birara/Competitive-programming/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
