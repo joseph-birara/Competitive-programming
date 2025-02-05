@@ -204,6 +204,7 @@ Happy coding!
 | [1651-shuffle-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1651-shuffle-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/joseph-birara/Competitive-programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/joseph-birara/Competitive-programming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/joseph-birara/Competitive-programming/tree/master/2128-reverse-prefix-of-word) |
@@ -259,6 +260,7 @@ Happy coding!
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/joseph-birara/Competitive-programming/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -379,6 +381,7 @@ Happy coding!
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/joseph-birara/Competitive-programming/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/joseph-birara/Competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
