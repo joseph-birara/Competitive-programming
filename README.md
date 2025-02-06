@@ -75,6 +75,7 @@ Happy coding!
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/joseph-birara/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -258,6 +259,7 @@ Happy coding!
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
+| [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -380,6 +382,7 @@ Happy coding!
 | ------- |
 | [0778-reorganize-string](https://github.com/joseph-birara/Competitive-programming/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/joseph-birara/Competitive-programming/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
