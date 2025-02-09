@@ -98,6 +98,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/joseph-birara/Competitive-programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/joseph-birara/Competitive-programming/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/joseph-birara/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -231,6 +232,7 @@ Happy coding!
 | [1236-n-th-tribonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1236-n-th-tribonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/joseph-birara/Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Rolling Hash
 |  |
@@ -264,6 +266,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/joseph-birara/Competitive-programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/joseph-birara/Competitive-programming/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -392,6 +395,7 @@ Happy coding!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/joseph-birara/Competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/joseph-birara/Competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
