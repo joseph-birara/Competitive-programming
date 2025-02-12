@@ -100,6 +100,7 @@ Happy coding!
 | [2358-number-of-ways-to-split-array](https://github.com/joseph-birara/Competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/joseph-birara/Competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/joseph-birara/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -161,6 +162,7 @@ Happy coding!
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/joseph-birara/Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/joseph-birara/Competitive-programming/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/joseph-birara/Competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -386,6 +388,7 @@ Happy coding!
 | [1917-maximum-average-pass-ratio](https://github.com/joseph-birara/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/joseph-birara/Competitive-programming/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/joseph-birara/Competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/joseph-birara/Competitive-programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
@@ -402,6 +405,7 @@ Happy coding!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/joseph-birara/Competitive-programming/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/joseph-birara/Competitive-programming/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/joseph-birara/Competitive-programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joseph-birara/Competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/joseph-birara/Competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/joseph-birara/Competitive-programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
