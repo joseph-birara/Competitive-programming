@@ -297,6 +297,7 @@ Happy coding!
 | ------- |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/joseph-birara/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/joseph-birara/Competitive-programming/tree/master/2434-design-a-number-container-system) |
@@ -367,6 +368,7 @@ Happy coding!
 | [0820-find-eventual-safe-states](https://github.com/joseph-birara/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/joseph-birara/Competitive-programming/tree/master/1558-course-schedule-iv) |
@@ -424,6 +426,7 @@ Happy coding!
 | [0952-word-subsets](https://github.com/joseph-birara/Competitive-programming/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/joseph-birara/Competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -489,6 +492,7 @@ Happy coding!
 | [0337-house-robber-iii](https://github.com/joseph-birara/Competitive-programming/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/joseph-birara/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/joseph-birara/Competitive-programming/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -506,6 +510,7 @@ Happy coding!
 | [0854-making-a-large-island](https://github.com/joseph-birara/Competitive-programming/tree/master/0854-making-a-large-island) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/joseph-birara/Competitive-programming/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/joseph-birara/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -522,6 +527,7 @@ Happy coding!
 | [0337-house-robber-iii](https://github.com/joseph-birara/Competitive-programming/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/joseph-birara/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1005-univalued-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1005-univalued-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/joseph-birara/Competitive-programming/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
