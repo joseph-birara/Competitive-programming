@@ -218,6 +218,7 @@ Happy coding!
 | [0952-word-subsets](https://github.com/joseph-birara/Competitive-programming/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/joseph-birara/Competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/joseph-birara/Competitive-programming/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
@@ -474,6 +475,7 @@ Happy coding!
 | [1013-fibonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/joseph-birara/Competitive-programming/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/joseph-birara/Competitive-programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
