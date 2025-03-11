@@ -229,6 +229,7 @@ Happy coding!
 | [1170-shortest-common-supersequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/joseph-birara/Competitive-programming/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/joseph-birara/Competitive-programming/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/joseph-birara/Competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/joseph-birara/Competitive-programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/joseph-birara/Competitive-programming/tree/master/1524-string-matching-in-an-array) |
@@ -456,6 +457,7 @@ Happy coding!
 | [1160-letter-tile-possibilities](https://github.com/joseph-birara/Competitive-programming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/joseph-birara/Competitive-programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/joseph-birara/Competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/joseph-birara/Competitive-programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/joseph-birara/Competitive-programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/joseph-birara/Competitive-programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -505,6 +507,7 @@ Happy coding!
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/joseph-birara/Competitive-programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/joseph-birara/Competitive-programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/joseph-birara/Competitive-programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
