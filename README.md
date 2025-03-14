@@ -77,6 +77,7 @@ Happy coding!
 | [1025-minimum-cost-for-tickets](https://github.com/joseph-birara/Competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/joseph-birara/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/joseph-birara/Competitive-programming/tree/master/1063-best-sightseeing-pair) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/joseph-birara/Competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/joseph-birara/Competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/joseph-birara/Competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/joseph-birara/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -170,6 +171,7 @@ Happy coding!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/joseph-birara/Competitive-programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/joseph-birara/Competitive-programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/joseph-birara/Competitive-programming/tree/master/0731-my-calendar-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/joseph-birara/Competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/joseph-birara/Competitive-programming/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/joseph-birara/Competitive-programming/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/joseph-birara/Competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
